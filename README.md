@@ -1,4 +1,4 @@
-# **CI/CD Node.js AWS EC2**
+# **CI/CD Node.js AWS EC2 CodeDeploy**
 
 > ## **Simple example of how to deploy Node.js application to AWS EC2 instance using AWS CodeDeploy and AWS CodePipeline services**
 
