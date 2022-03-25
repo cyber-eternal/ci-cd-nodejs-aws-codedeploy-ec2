@@ -12,7 +12,7 @@
 
 1.1. Go to [Create IAM Role Page](https://console.aws.amazon.com/iam/home?region=us-east-1#/roles$new?step=type 'AWS Create IAM Role')
 
-1.2. Choose EC2 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+1.2. Choose EC2
 
 1.3. Find and choose AmazonEC2RoleforAWSCodeDeploy policy
 
