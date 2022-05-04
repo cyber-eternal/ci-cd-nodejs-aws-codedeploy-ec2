@@ -108,3 +108,12 @@ sudo service codedeploy-agent status
 ```bash
 /opt/codedeploy-agent/deployment-root/deployment-logs/codedeploy-agent-deployments.log
 ```
+
+### Stay in touch
+
+- Author - [Edgar Sargsyan](https://github.com/cyber-eternal)
+- Website - [https://sargsyan.dev](https://sargsyan.dev)
+- Twitter - [@cybereternal](https://twitter.com/cybereternal)
+
+License Summary
+This sample code is made available under a modified MIT license. See the LICENSE file.
